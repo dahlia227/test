@@ -2,8 +2,10 @@
 ## test 2
 ### test 3
 
---- underline 1
+---- underline 1
+
 ***** underline 2
+
 * * * underline 3
 
 1. list 1
@@ -12,12 +14,17 @@
   * list 4
   - list 5
 
-**decoration 1__
-__ decoration 2**
-*decoration 3_
+**decoration 1**
+
+__decoration 2__
+
+*decoration 3*
+
 ***decoration***
+
 ~~cancel~~
 
+# Insert Source code
 ```javascript
 <script>
   let now = new date();
